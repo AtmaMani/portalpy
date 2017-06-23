@@ -1,3 +1,8 @@
+# Note
+
+The Portalpy project is no longer under active development. You are encouraged to make use of the [ArcGIS API for Python](https://github.com/esri/arcgis-api-python) to automate your GIS administration and management tasks. To understand the full scope of what is possible with the ArcGIS API for Python click [here](https://developers.arcgis.com/python).
+
+
 Portalpy
 =========
 Portalpy is a Python module that allows you to administer Portal for ArcGIS and ArcGIS Online.  
